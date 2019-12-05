@@ -39,7 +39,7 @@
   "dependencies": {
     "dotenv": "^5.0.1",
     "handlebars": "^4.1.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.15",
     "npm-package-arg": "^6.1.0",
     "rimraf": "^2.6.3",
     "safe-buffer": "^5.1.2",
